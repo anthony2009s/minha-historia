@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 :root{
     /* CSS HEX */
---yinmn-blue: #26547cff;
---bright-pink-crayola: #ef476fff;
---sunglow: #ffd166ff;
---emerald: #06d6a0ff;
+--azul-escuro: #26547cff;
+--: rosa-salmão#ef476fff;
+--amarelo: #ffd166ff;
+--esmeralda: #06d6a0ff;
+--titulo: "bitcount prop Double Ink"
+--texto: "shere tech", sans-serif;
 }
