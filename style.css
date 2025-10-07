@@ -8,3 +8,13 @@
 --titulo: "bitcount prop Double Ink"
 --texto: "shere tech", sans-serif;
 }
+
+body{
+    background-color: var(--azul-escuro);
+    font-family: var(--texto);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
