@@ -13,6 +13,9 @@
 body{
     background-color: var(--azul-escuro);
     font-family: var(--texto);
+    margin: 5px;
+}
+button:hover{
     display: flex;
     align-items: center;
     justify-content: center;
